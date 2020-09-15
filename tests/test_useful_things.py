@@ -1,4 +1,4 @@
-import useful_things
+import ../useful_things
 from hypothesis import given
 import hypothesis.strategies as st
 
